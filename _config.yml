@@ -14,8 +14,8 @@ version: "3.0.0"
 # - GitHub Pages repo: baseurl: "/blogjak-theme"
 # - Root domain:       baseurl: ""
 # - Subfolder:         baseurl: "/nama-folder"
-url: "https://laundrykiloan.github.io"
-baseurl: "/blog"
+url: "https://username.github.io"
+baseurl: "/blog/"
 
 # ====== Build Settings ======
 markdown: kramdown
